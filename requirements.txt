@@ -1,0 +1,7 @@
+streamlit
+pandas
+yaml
+requests
+uuid
+numpy
+time
