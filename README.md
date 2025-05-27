@@ -95,4 +95,4 @@ Here is a preview of the **KoBoToolbox Data Migration App** in action:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
