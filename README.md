@@ -70,7 +70,7 @@ Use the `sample_data/` folder to test how the app works before using real data.
 
 ## 🧪 Usage
 
-- Make sure to provide:
+Make sure to provide:
 - A CSV dataset (old_data_sample.csv)
 - A valid XLSForm (form_template.xlsx)
 - Your KoBoToolbox API Token and Form ID
