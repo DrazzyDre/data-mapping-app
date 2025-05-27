@@ -92,6 +92,12 @@ Here is a preview of the **KoBoToolbox Data Migration App** in action:
 
 
 ---
+## 🚀 Live Demo
+
+You can try out the app here:  
+👉 [Launch the App](https://data-mapping-app-8dukryd7xuqtfutxd9y8cl.streamlit.app/)
+
+---
 
 ## 📄 License
 
