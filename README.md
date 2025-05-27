@@ -26,6 +26,14 @@ Ensure Python is installed, then install dependencies:
 pip install -r requirements.txt
 ```
 
+### Clone the repo:
+```bash
+git clone https://github.com/your-username/data-mapping-app.git
+cd data-mapping-app
+```
+#### Create a virtual environment (optional but recommended)
+
+
 ### Running the App
 
 ```bash
