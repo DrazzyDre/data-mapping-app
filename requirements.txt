@@ -1,6 +1,6 @@
 streamlit
 pandas
-pyyaml
+pyYAML
 requests
 numpy
 openpyxl
