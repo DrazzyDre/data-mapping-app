@@ -84,10 +84,12 @@ Make sure to provide:
 - Your KoBoToolbox API Token and Form ID
 
 ---
+## Screenshots
 
-## 🍳 Fun Fact
+Here is a preview of the **KoBoToolbox Data Migration App** in action:
 
-When I'm not coding, you'll likely find me cooking up a storm in the kitchen. I'm a passionate home chef, always experimenting with new flavors.
+![App Screenshot](assets/screenshot.png)
+
 
 ---
 
